@@ -68,6 +68,8 @@ public class Main {
         states.add("Германия");
         states.add("Франция");
         states.add("Великобритания");
+        states.add("Узбекистан");
+        states.add("222");
         states.add("Испания");
         states.add(1, "Италия"); // добавляем элемент по индексу 1
 
